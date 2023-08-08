@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-03T05:22:01 IST" name="Default suite" finished-at="2023-08-03T05:22:03 IST" duration-ms="2028">
+    <groups>
+    </groups>
+    <test started-at="2023-08-03T05:22:01 IST" name="Default test" finished-at="2023-08-03T05:22:03 IST" duration-ms="2028">
+      <class name="StepDefinition.sdpostclass">
+        <test-method signature="user_open_the_dummy_rest_post_api_website()[pri:1, instance:StepDefinition.sdpostclass@7d900ecf]" started-at="2023-08-03T05:22:01 IST" name="user_open_the_dummy_rest_post_api_website" finished-at="2023-08-03T05:22:01 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_open_the_dummy_rest_post_api_website -->
+        <test-method signature="user_creates_the_record()[pri:2, instance:StepDefinition.sdpostclass@7d900ecf]" started-at="2023-08-03T05:22:01 IST" name="user_creates_the_record" finished-at="2023-08-03T05:22:03 IST" duration-ms="1983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_creates_the_record -->
+        <test-method signature="user_sucessfully_view_the_record_in_databse()[pri:3, instance:StepDefinition.sdpostclass@7d900ecf]" started-at="2023-08-03T05:22:03 IST" name="user_sucessfully_view_the_record_in_databse" finished-at="2023-08-03T05:22:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_sucessfully_view_the_record_in_databse -->
+      </class> <!-- StepDefinition.sdpostclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
